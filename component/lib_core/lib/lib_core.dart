@@ -1,0 +1,3 @@
+library lib_core;
+
+
